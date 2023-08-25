@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+.titulos{
+    color: blueviolet;
+    border-style: solid;
+}
+
+.textos{
+    font-size: 10px;
+}
+
+.tituloSecundario{
+    color: brown;
+}
